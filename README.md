@@ -3,14 +3,14 @@
 </div>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Playwrite+CL&weight=900&size=30&pause=1000&color=6E64BD&center=true&vCenter=true&width=435&lines=Hii+%F0%9F%91%8B+I+m'+Ishika;%F0%9F%92%BB+Full+Stack+Web+developer" alt="ishika"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Playwrite+CL&weight=900&size=30&pause=1000&color=6E64BD&center=true&vCenter=true&width=435&lines=Hii+%F0%9F%91%8B+I+m'+Riya;%F0%9F%92%BB+Full+Stack+Web+developer" alt="riya"/>
 </h1>
 
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishikadubey792&label=Profile%20views&color=28BEF7&style=for-the-badge" alt="ishikadubey792" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rsaxena711&label=Profile%20views&color=28BEF7&style=for-the-badge" alt="rsaxena711" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishikadubey792&theme=tokyonight" alt="ishikadubey792" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rsaxena711&theme=tokyonight" alt="rsaxena711" /></a> </p>
 
   <img align="right" alt="coding" width="250" src="image-side-withoutbg.gif" alt="my-gif"/>
   <div align="left">
@@ -26,7 +26,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:ishikadubey792@gmail.com">
+  <a href="mailto:riyasaxena711@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 
