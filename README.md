@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsaxena711&label=Profile%20views&color=28BEF7&style=for-the-badge" alt="rsaxena711" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rsaxena711&theme=tokyonight" alt="rsaxena711" /></a> </p>
+
 
   <img align="right" alt="coding" width="250" src="image-side-withoutbg.gif" alt="my-gif"/>
   <div align="left">
@@ -19,53 +19,7 @@
  
  🌱 I’m currently learning System Design.
 
-💬 Ask me about Java, Javascript, Node.js, Express, MongoDb... or anything here
+💬 Ask me about Python, Javascript, React.js, Node.js, Express, MongoDb... or anything here
 
 ⚡ Fun fact: Game of Thrones Night's Watch cloaks are made from Ikea rugs
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:riyasaxena711@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-
-    
-  <a href="https://www.linkedin.com/in/ishika-bharadwaj-93a76123b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  </a>
-</div>
-
- 
-<h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,github,tailwind,git,postman"/><br>
-    <img src="https://skillicons.dev/icons?i=javascript,react,redux,nodejs,express,mongodb,firebase,java,sass" /><br>
-</div>
-
-<br/>
-
-<hr/>
-
-# 📊 GitHub Stats:
-<p align="center">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishikadubey792&theme=tokyonight&hide_border=false"/><br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=ishikadubey792&theme=tokyonight&show_icons=true&locale=en"/><br/>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikadubey792&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</p>
-
-### 🔝 Top Contributed Repo
-<p align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=ishikadubey792&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
-
-<p align="center">
- <img width="1000" src="https://raw.githubusercontent.com/Abhithakur7080/Abhithakur7080/f0f68a01b0ce40fa7d1b52010da76cc8f3d3c296/github-snake.svg" alt="snake"/>
-</p>
-
-### ✍️ Random Dev Quote
-<p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
