@@ -16,8 +16,6 @@
   <div align="left">
     
  🔭 I'm currently exploring new career opportunities.
- 
- 🌱 I’m currently learning System Design.
 
 💬 Ask me about Python, Javascript, React.js, Node.js, Express, MongoDb... or anything here
 
